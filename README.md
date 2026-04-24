@@ -1,4 +1,3 @@
-# SBKE - Space Biology Knowledge Engine
 
 A unified platform for accessing NASA space biology research data, publications, datasets, and projects.
 
